@@ -18,7 +18,7 @@ require_once(G5_SHOP_PATH.'/'.$default['de_pg_service'].'/orderform.1.php');
     <section class="pesonal sod_left"><!-- id="sod_frm_pay" -->
         <h2>개인결제정보</h2>
 
-        <div class="tbl_frm01 tbl_wrap">
+        <div class="tbl_frm01 tbl_wrap">d
             <table>
             <tbody>
             <?php if(trim($pp['pp_content'])) { ?>
